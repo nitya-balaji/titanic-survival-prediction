@@ -13,7 +13,12 @@ This end-to-end ML project implements a Random Forest classifier to predict surv
 
 ## Tools & Technologies
 
-Python, Pandas, NumPy, Scikit-learn, Matplotlib
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn 
 
 ## Acknowledgments
 
