@@ -17,5 +17,5 @@ Python, Pandas, NumPy, Scikit-learn, Matplotlib
 
 ## Acknowledgments
 
-Kaggle Titanic Dataset: https://www.kaggle.com/competitions/titanic/overview (891 training samples, 418 test samples)
-Result: Achieved 78% accuracy on Kaggle Competition test set.
+- Kaggle Titanic Dataset: https://www.kaggle.com/competitions/titanic/overview  (dataset includes 891 training samples, 418 test samples)
+- Result: Achieved 78% accuracy on Kaggle Competition test set.
